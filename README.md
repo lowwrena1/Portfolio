@@ -1,2 +1,2 @@
 # Portfolio
-A portfolio displaying work either created by me, or that I assisted in.
+A portfolio displaying work I created or that I assisted with.
