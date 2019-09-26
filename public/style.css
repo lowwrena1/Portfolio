@@ -10,3 +10,13 @@ body {
 .navbar{
     float: right;
 }
+#card1{
+    margin: 5px;
+    padding: 5px;
+    float: left;
+}
+#card2{
+    margin: 5px;
+    padding: 5px;
+    float: left;
+}
