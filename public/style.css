@@ -11,12 +11,25 @@ body {
     float: right;
 }
 #card1{
-    margin: 5px;
-    padding: 5px;
+    margin: 10px;
+    padding: 10px;
     float: left;
 }
 #card2{
-    margin: 5px;
-    padding: 5px;
+    margin: 10px;
+    padding: 10px;
     float: left;
+}
+#card3{
+    margin: 10px;
+    padding: 10px;
+    float: left;
+}
+#card4{
+    margin: 10px;
+    padding: 10px;
+    float: left;
+}
+.mainDiv{
+float: right;
 }
